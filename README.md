@@ -1,2 +1,2 @@
-# covid-19-Iraq
-This website Created to displays COVID-19 status of Iraq
+# أحصائيات العراق
+تم انشاء الموقع لاعطاء اخر احصائيان أصابات فايروس كورونا
